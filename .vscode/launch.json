@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ep_cc_debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            "args": ["--gtest_filter=SizingAnalysisObjectsTest*"],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/Dev_Works/Output",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            // "miDebuggerPath": "/usr/bin/gdb",
+            // "targetArchitecture": "x86_64",
+            "logging": {
+                // "trace" : true,
+                // "traceResponse": true
+                // "engineLogging": true
+            } 
+        },
+        {
+            "name": "ep_idf_debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            // "targetArchitecture": "x86_64",
+            "args": [   
+                "-D",
+                "-d","${workspaceFolder}/Dev_Works/Output", 
+                "-w", "${workspaceFolder}/Dev_Works/Input/in.epw",
+                "-r", 
+                // "${workspaceFolder}/EnergplusDev/EP_build_debug/Input/in.idf"
+            "${workspaceFolder}/Dev_Works/Input/in.idf"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "logging": {
+                // "trace" : true,
+                // "traceResponse": true
+            },
+            "console": false,
+            "MIMode": "gdb"
+        },
+    ]
+}
