@@ -57,7 +57,7 @@ cmake-build-*
 .idea
 .se
 .vs
-.vscode
+# .vscode
 CMakeSettings.json
 
 # vim temp file:

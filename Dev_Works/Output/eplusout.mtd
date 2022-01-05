@@ -1,0 +1,1534 @@
+
+ Meters for 7,BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 80,BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 105,BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 130,BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 155,BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 180,BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 181,BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 182,BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 183,BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 184,BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 185,BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 210,BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 235,BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 260,BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 285,BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 310,BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 347,BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 360,BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 373,BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 386,BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 399,BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 400,BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 401,BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 402,BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 403,BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 404,BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 417,BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 430,BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 443,BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 456,BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 469,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 506,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Crankcase Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+
+ Meters for 531,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Water Heating Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+
+ Meters for 532,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 533,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Crankcase Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+
+ Meters for 534,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Water Heating Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+
+ Meters for 535,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Service Hot Water:Fans:Electricity [J]
+
+ Meters for 572,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN 1:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Service Hot Water:Fans:Electricity [J]
+
+ Meters for 573,BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 634,BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 671,BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 696,BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 709,BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 734,BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 747,BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 772,BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 785,BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 810,BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 823,BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 848,BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 861,BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 886,BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 899,BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 924,BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 937,BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 962,BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 975,BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 1000,BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 1013,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 1062,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 1111,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 1160,BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1173,BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1198,BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1199,BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1200,BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1201,BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1202,BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1203,BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1204,BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1205,BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1206,BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1207,BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1208,BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1209,BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1210,BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1211,BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1212,BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1213,BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1214,BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 1215,BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1216,BUILDING FACADES:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Building Facades:ExteriorLights:Electricity [J]
+
+ Meters for 1241,MAIN ENTRIES:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Main Entries:ExteriorLights:Electricity [J]
+
+ Meters for 1254,OTHER DOORS:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Other Doors:ExteriorLights:Electricity [J]
+
+ Meters for 1267,PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Parking Areas and Drives:ExteriorLights:Electricity [J]
+
+ Meters for 1280,STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1329,STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1378,STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1415,STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1416,STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1417,STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1418,STORY GROUND BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1467,STORY TOP BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1468,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=Service Hot Water:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1481,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Service Hot Water:WaterSystems:Electricity [J]
+
+ Meters for 1494,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Off Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Service Hot Water:WaterSystems:Electricity [J]
+
+ Meters for 1495,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater On Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Service Hot Water:WaterSystems:Electricity [J]
+
+ Meters for 1496,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=Service Hot Water:WaterSystems:Water [m3]
+
+ Meters for 1509,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=Service Hot Water:WaterSystems:MainsWater [m3]
+
+ Meters for 1522,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater Off Cycle Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Water Heater Parasitic:WaterSystems:Electricity [J]
+
+ Meters for 1535,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater On Cycle Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Water Heater Parasitic:WaterSystems:Electricity [J]
+
+ Meters for 1536,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=Service Hot Water:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1537,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Service Hot Water:WaterSystems:Electricity [J]
+
+ Meters for 1538,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Off Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Service Hot Water:WaterSystems:Electricity [J]
+
+ Meters for 1539,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater On Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Service Hot Water:WaterSystems:Electricity [J]
+
+ Meters for 1540,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=Service Hot Water:WaterSystems:Water [m3]
+
+ Meters for 1541,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=Service Hot Water:WaterSystems:MainsWater [m3]
+
+ Meters for 1542,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater Off Cycle Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Water Heater Parasitic:WaterSystems:Electricity [J]
+
+ Meters for 1543,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater On Cycle Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=Water Heater Parasitic:WaterSystems:Electricity [J]
+
+ Meters for 1544,STORY GROUND BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 1569,STORY TOP BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 1570,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1595,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1596,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Crankcase Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Water Heating Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Crankcase Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Water Heating Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN:Fan Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN 1:Fan Electricity Energy
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING FACADES:Exterior Lights Electricity Energy
+  MAIN ENTRIES:Exterior Lights Electricity Energy
+  OTHER DOORS:Exterior Lights Electricity Energy
+  PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater On Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater On Cycle Ancillary Electricity Energy
+  STORY GROUND BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+  STORY TOP BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 1 THERMALZONE [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING LIGHTS 1:Lights Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA LIGHTS 1:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 2 THERMALZONE [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING LIGHTS 2:Lights Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BUILDING STORY 1 THERMALZONE MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 3 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 1 THERMALZONE 4 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 1:Electric Equipment Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 MFM RESPUBLICAREA ELEC EQUIP 1:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 1 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 2 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 3 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 3 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BUILDING STORY 2 THERMALZONE 4 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 4 MFM RESLIVING ELEC EQUIP 2:Electric Equipment Electricity Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Total Cooling Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Total Cooling Energy
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Total Cooling Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Total Cooling Energy
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Total Cooling Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Total Cooling Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Crankcase Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Water Heating Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Crankcase Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Water Heating Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater On Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater On Cycle Ancillary Electricity Energy
+  STORY GROUND BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+  STORY TOP BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+
+ For Meter=WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Crankcase Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL:Cooling Coil Water Heating Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Crankcase Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1:Cooling Coil Water Heating Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater On Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater On Cycle Ancillary Electricity Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN:Fan Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN 1:Fan Electricity Energy
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN:Fan Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN 1:Fan Electricity Energy
+
+ For Meter=Service Hot Water:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN:Fan Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR FAN 1:Fan Electricity Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  BUILDING STORY 1 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 1 THERMALZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 1 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BUILDING STORY 2 THERMALZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BUILDING STORY 2 THERMALZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Baseboard:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Baseboard, contents are:
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+
+ For Meter=General:Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  BUILDING STORY 1 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 1 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 1 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 2 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 3 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING STORY 2 THERMALZONE 4 ELECTRIC BASEBOARD:Baseboard Electricity Energy
+
+ For Meter=ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  BUILDING FACADES:Exterior Lights Electricity Energy
+  MAIN ENTRIES:Exterior Lights Electricity Energy
+  OTHER DOORS:Exterior Lights Electricity Energy
+  PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy
+
+ For Meter=Building Facades:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  BUILDING FACADES:Exterior Lights Electricity Energy
+
+ For Meter=Main Entries:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  MAIN ENTRIES:Exterior Lights Electricity Energy
+
+ For Meter=Other Doors:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  OTHER DOORS:Exterior Lights Electricity Energy
+
+ For Meter=Parking Areas and Drives:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy
+
+ For Meter=Water:Facility [m3], ResourceType=Water, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Water Volume
+
+ For Meter=Water:Plant [m3], ResourceType=Water, Group=Plant, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Water Volume
+
+ For Meter=WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Water Volume
+
+ For Meter=General:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Total Volume
+
+ For Meter=MainsWater:Facility [m3], ResourceType=MainsWater, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Mains Water Volume
+
+ For Meter=MainsWater:Plant [m3], ResourceType=MainsWater, Group=Plant, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Mains Water Volume
+
+ For Meter=WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Mains Water Volume
+
+ For Meter=General:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Mains Water Volume
+
+ For Meter=EnergyTransfer:Plant [J], ResourceType=EnergyTransfer, Group=Plant, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+
+ For Meter=WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+
+ For Meter=General:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS SERVICE WATER USE 0.93GPM AT 110F:Water Use Equipment Heating Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Source Side Heat Transfer Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=PlantLoopHeatingDemand:Plant [J], ResourceType=PlantLoopHeatingDemand, Group=Plant, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Source Side Heat Transfer Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Source Side Heat Transfer Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=General:WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  STORY GROUND BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+  STORY TOP BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F:Water Use Connections Plant Hot Water Energy
+
+ For Meter=Service Hot Water:WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Source Side Heat Transfer Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=Service Hot Water:WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater On Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Off Cycle Parasitic Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater On Cycle Parasitic Electricity Energy
+
+ For Meter=Service Hot Water:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Water Volume
+
+ For Meter=Service Hot Water:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1:Water Heater Mains Water Volume
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK:Water Heater Mains Water Volume
+
+ For Meter=Water Heater Parasitic:WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1:Water Heater On Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater Off Cycle Ancillary Electricity Energy
+  800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B:Water Heater On Cycle Ancillary Electricity Energy
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  STORY GROUND BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+  STORY TOP BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+
+ For Meter=General:Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  STORY GROUND BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+  STORY TOP BLENDED SPACE TYPE SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN:Pump Electricity Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

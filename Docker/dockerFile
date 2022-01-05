@@ -1,0 +1,20 @@
+FROM ubuntu:18.04
+LABEL Description="EP_Build_Environment"
+SHELL ["/bin/bash", "-c"]
+RUN apt-get update && apt-get -y --no-install-recommends install \
+    build-essential \
+    clang \
+    cmake \
+    gdb \
+    wget \
+    git
+RUN apt-get update && apt-get -y --no-install-recommends install \
+    build-essential \
+    clang \
+    cmake \
+    gdb \
+    wget \
+    git
+RUN apt-get update && apt-get -y --no-install-recommends install python3.8 
+RUN ln -s /usr/bin/pip3 /usr/bin/pip
+RUN ln -s /usr/bin/python3.8 /usr/bin/python

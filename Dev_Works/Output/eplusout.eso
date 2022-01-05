@@ -1,0 +1,154 @@
+Program Version,EnergyPlus, Version 9.6.0-ec13cca9f6, YMD=2021.12.27 23:49
+1,5,Environment Title[],Latitude[deg],Longitude[deg],Time Zone[],Elevation[m]
+2,8,Day of Simulation[],Month[],Day of Month[],DST Indicator[1=yes 0=no],Hour[],StartMinute[],EndMinute[],DayType
+3,5,Cumulative Day of Simulation[],Month[],Day of Month[],DST Indicator[1=yes 0=no],DayType  ! When Daily Report Variables Requested
+4,2,Cumulative Days of Simulation[],Month[]  ! When Monthly Report Variables Requested
+5,1,Cumulative Days of Simulation[] ! When Run Period Report Variables Requested
+6,1,Calendar Year of Simulation[] ! When Annual Report Variables Requested
+506,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL,Cooling Coil Crankcase Heater Electricity Energy [J] !Hourly
+531,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL,Cooling Coil Water Heating Electricity Energy [J] !Hourly
+533,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1,Cooling Coil Crankcase Heater Electricity Energy [J] !Hourly
+534,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR COIL 1,Cooling Coil Water Heating Electricity Energy [J] !Hourly
+1418,1,STORY GROUND BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F,Water Use Connections Plant Hot Water Energy [J] !Hourly
+1467,1,STORY TOP BLENDED SPACE TYPE 16 UNITS WUC 0.93GPM AT 110F,Water Use Connections Plant Hot Water Energy [J] !Hourly
+1468,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1,Water Heater Source Side Heat Transfer Energy [J] !Hourly
+1481,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1,Water Heater Electricity Energy [J] !Hourly
+1494,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1,Water Heater Off Cycle Parasitic Electricity Energy [J] !Hourly
+1495,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK 1,Water Heater On Cycle Parasitic Electricity Energy [J] !Hourly
+1522,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1,Water Heater Off Cycle Ancillary Electricity Energy [J] !Hourly
+1535,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B 1,Water Heater On Cycle Ancillary Electricity Energy [J] !Hourly
+1536,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK,Water Heater Source Side Heat Transfer Energy [J] !Hourly
+1537,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK,Water Heater Electricity Energy [J] !Hourly
+1538,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK,Water Heater Off Cycle Parasitic Electricity Energy [J] !Hourly
+1539,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR TANK,Water Heater On Cycle Parasitic Electricity Energy [J] !Hourly
+1542,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B,Water Heater Off Cycle Ancillary Electricity Energy [J] !Hourly
+1543,1,800GAL HEAT PUMP WATER HEATER - 320KBTU/HR_TYPE_B,Water Heater On Cycle Ancillary Electricity Energy [J] !Hourly
+8,1,Electricity:Facility [J] !TimeStep
+End of Data Dictionary
+1,LONG BEACH DAUGHERTY FLD ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1,  33.83,-118.17,  -8.00,   8.00
+2,1, 8,21, 0, 1, 0.00,60.00,SummerDesignDay
+8,31180282.36845428
+2,1, 8,21, 0, 1, 0.00,60.00,SummerDesignDay
+506,0.0
+531,0.0
+533,0.0
+534,0.0
+1418,1823144.1434436863
+1467,1823144.1434436863
+1468,0.0
+1481,0.0
+1494,0.0
+1495,0.0
+1522,0.0
+1535,0.0
+1536,0.0
+1537,0.0
+1538,0.0
+1539,0.0
+1542,0.0
+1543,0.0
+2,1, 8,21, 0, 2, 0.00,60.00,SummerDesignDay
+8,28948149.28376121
+2,1, 8,21, 0, 2, 0.00,60.00,SummerDesignDay
+506,0.0
+531,0.0
+533,0.0
+534,0.0
+1418,273453.35840152119
+1467,273453.35840152119
+1468,0.0
+1481,0.0
+1494,0.0
+1495,0.0
+1522,0.0
+1535,0.0
+1536,0.0
+1537,0.0
+1538,0.0
+1539,0.0
+1542,0.0
+1543,0.0
+2,1, 8,21, 0, 3, 0.00,60.00,SummerDesignDay
+8,27832082.741343567
+2,1, 8,21, 0, 3, 0.00,60.00,SummerDesignDay
+506,0.0
+531,0.0
+533,0.0
+534,0.0
+1418,-15958.671533220193
+1467,-15958.671533220193
+1468,0.0
+1481,0.0
+1494,0.0
+1495,0.0
+1522,0.0
+1535,0.0
+1536,0.0
+1537,0.0
+1538,0.0
+1539,0.0
+1542,0.0
+1543,0.0
+2,1, 8,21, 0, 4, 0.00,60.00,SummerDesignDay
+8,27274049.47022323
+2,1, 8,21, 0, 4, 0.00,60.00,SummerDesignDay
+506,0.0
+531,0.0
+533,0.0
+534,0.0
+1418,-44821.791014392686
+1467,-44821.791014392686
+1468,0.0
+1481,0.0
+1494,0.0
+1495,0.0
+1522,0.0
+1535,0.0
+1536,0.0
+1537,0.0
+1538,0.0
+1539,0.0
+1542,0.0
+1543,0.0
+2,1, 8,21, 0, 5, 0.00,60.00,SummerDesignDay
+8,28359545.026544837
+2,1, 8,21, 0, 5, 0.00,60.00,SummerDesignDay
+506,0.0
+531,0.0
+533,0.0
+534,0.0
+1418,-137620.959117959
+1467,-137620.959117959
+1468,0.0
+1481,0.0
+1494,0.0
+1495,0.0
+1522,0.0
+1535,0.0
+1536,0.0
+1537,0.0
+1538,0.0
+1539,0.0
+1542,0.0
+1543,0.0
+2,1, 8,21, 0, 6, 0.00,60.00,SummerDesignDay
+8,30977123.072742534
+2,1, 8,21, 0, 6, 0.00,60.00,SummerDesignDay
+506,0.0
+531,0.0
+533,0.0
+534,0.0
+1418,10382521.15478019
+1467,10382521.15478019
+1468,0.0
+1481,0.0
+1494,0.0
+1495,0.0
+1522,0.0
+1535,0.0
+1536,0.0
+1537,0.0
+1538,0.0
+1539,0.0
+1542,0.0
+1543,0.0
