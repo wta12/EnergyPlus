@@ -10,6 +10,14 @@ The devcontainer setup for VSCode remote container setup e.g. portability
 ## git status
  git config --global core.autocrlf true
 
+## script run (onCreate/PostCreate/PostStart)
+need permission to run chmod +x script.sh. Only one cmd works
+
+## Tuned
+non-root user
+startup script
+bind/volume - avoid reinstall extensions
+
 ## TODO
  setup build folder for each version (dev_test)
  git setup inside devcontainer (user/email/line end)

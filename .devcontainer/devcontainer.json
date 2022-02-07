@@ -27,9 +27,14 @@
 		"twxs.cmake"
 	],
 	"containerEnv": {"HOST_PATH":"${localWorkspaceFolder}"},
-	"workspaceMount": "source=${localWorkspaceFolder},target=/home/ep_dev_docker,type=bind",
-	"workspaceFolder": "/home/ep_dev_docker",
-
+	"workspaceMount": "source=${localWorkspaceFolder},target=/home/ngkhanh/ep_dev_docker,type=bind", // bind has worse pef but convenient - source folder already WSL VM based
+	"workspaceFolder": "/home/ngkhanh/ep_dev_docker",
+	// "onCreateCommand": "sudo chown -R ngkhanh ${containerWorkspaceFolder}", 
+	"onCreateCommand": "${containerWorkspaceFolder}/Docker/postCreateCmd.sh",
+	// "postAttachCommand": [
+		// "git --help",
+		// "sudo chown -R ngkhanh ${containerWorkspaceFolder}" // only need for volume mount with non root user
+	// ],
 	// "mounts": [
 	// 	"source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind,consistency=cached"
 
@@ -47,9 +52,13 @@
 	// "runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined" ],
 
 	// Uncomment to use the Docker CLI from inside the container. See https://aka.ms/vscode-remote/samples/docker-from-docker.
-	"mounts": [ "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind" ],
+	"mounts": [ 
+		// "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind",
+		"source=vs_code_extensions,target=/home/ngkhanh/.vscode-server/extensions,type=volume" // source: docker volume create vs_code_extensions / dockerFile create target folder
+	],
 
 	// Uncomment to connect as a non-root user if you've added one. See https://aka.ms/vscode-remote/containers/non-root.
+	"remoteUser": "ngkhanh",
 	// "remoteUser": "vscode"
-	"postStartCommand": "git config --global core.autocrlf true"
+	
 }
