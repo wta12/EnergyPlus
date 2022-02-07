@@ -19,6 +19,9 @@ RUN apt-get update && apt-get -y --no-install-recommends install \
     libopenal-dev \
     libgl1-mesa-dev \
     libglw1-mesa-dev \
+    libxrandr-dev \
+    libxinerama-dev\
+    libxcursor-dev \
     freeglut3-dev \
     curl \
     unzip 
@@ -36,6 +39,8 @@ RUN wget https://github.com/Kitware/CMake/releases/download/v${CMAKE_VERSION}/cm
       && mkdir /usr/bin/cmake \
       && /tmp/cmake-install.sh --skip-license --prefix=/usr/bin/cmake \
       && rm /tmp/cmake-install.sh
-ENV PATH="/usr/bin/cmake/bin:${PATH}"
+## install ccache
+RUN apt-get update &&  apt-get install -y --no-install-recommends ccache
+ENV PATH="/usr/lib/ccache:/usr/bin/cmake/bin:${PATH}"
 ## set run
-CMD ["/bin/bash","-c"]
+# CMD ["/bin/bash","-c"]

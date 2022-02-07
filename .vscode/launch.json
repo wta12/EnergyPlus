@@ -33,10 +33,10 @@
                 "-D",
                 "-d","${workspaceFolder}/Dev_Works/Output", 
                 "-w", "${workspaceFolder}/Dev_Works/Input/in.epw",
-                "-r", 
+                // "-r", 
                 "-c",
-                // "${workspaceFolder}/EnergplusDev/EP_build_debug/Input/in.idf"
-            "${workspaceFolder}/Dev_Works/Input/in_meter.idf"
+                "${workspaceFolder}/Dev_Work/Input/in_meter.idf"
+            // "${workspaceFolder}/Dev_Works/Input/WindowTestsSimple.idf"
             ],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
