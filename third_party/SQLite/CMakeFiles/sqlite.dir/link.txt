@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../Products/libsqlite.a CMakeFiles/sqlite.dir/sqlite3.c.o
+ccache /usr/bin/ranlib ../../Products/libsqlite.a

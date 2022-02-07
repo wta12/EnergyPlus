@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../../Products/splinter.a CMakeFiles/splinter.dir/bspline.cpp.o CMakeFiles/splinter.dir/bsplinebasis.cpp.o CMakeFiles/splinter.dir/bsplinebasis1d.cpp.o CMakeFiles/splinter.dir/bsplinebuilder.cpp.o CMakeFiles/splinter.dir/datapoint.cpp.o CMakeFiles/splinter.dir/datatable.cpp.o CMakeFiles/splinter.dir/function.cpp.o CMakeFiles/splinter.dir/knots.cpp.o CMakeFiles/splinter.dir/mykroneckerproduct.cpp.o CMakeFiles/splinter.dir/serializer.cpp.o CMakeFiles/splinter.dir/utilities.cpp.o
+ccache /usr/bin/ranlib ../../../Products/splinter.a

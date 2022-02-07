@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../Products/libbcvtb.a CMakeFiles/bcvtb.dir/utilSocket.c.o CMakeFiles/bcvtb.dir/utilXml.c.o
+ccache /usr/bin/ranlib ../../Products/libbcvtb.a

@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../Products/libenergyplusparser.a CMakeFiles/energyplusparser.dir/DataStringGlobals.cc.o CMakeFiles/energyplusparser.dir/FileSystem.cc.o CMakeFiles/energyplusparser.dir/EmbeddedEpJSONSchema.cc.o CMakeFiles/energyplusparser.dir/InputProcessing/IdfParser.cc.o CMakeFiles/energyplusparser.dir/InputProcessing/InputValidation.cc.o
+ccache /usr/bin/ranlib ../../Products/libenergyplusparser.a

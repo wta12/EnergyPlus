@@ -1,0 +1,1 @@
+ccache /usr/lib/ccache/c++ -O3 -DNDEBUG CMakeFiles/generate_embeddedable_epJSON_schema.dir/generate_embeddable_epJSON_schema.cpp.o -o scripts/generate_embeddedable_epJSON_schema  -pthread 

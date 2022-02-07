@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../../Products/libtess2.a CMakeFiles/tess2.dir/libtess2/Source/bucketalloc.c.o CMakeFiles/tess2.dir/libtess2/Source/dict.c.o CMakeFiles/tess2.dir/libtess2/Source/geom.c.o CMakeFiles/tess2.dir/libtess2/Source/mesh.c.o CMakeFiles/tess2.dir/libtess2/Source/priorityq.c.o CMakeFiles/tess2.dir/libtess2/Source/sweep.c.o CMakeFiles/tess2.dir/libtess2/Source/tess.c.o
+ccache /usr/bin/ranlib ../../../Products/libtess2.a

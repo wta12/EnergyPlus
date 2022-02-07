@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../Products/libepexpat.a CMakeFiles/epexpat.dir/lib/xmlparse.c.o CMakeFiles/epexpat.dir/lib/xmlrole.c.o CMakeFiles/epexpat.dir/lib/xmltok.c.o CMakeFiles/epexpat.dir/lib/xmltok_impl.c.o CMakeFiles/epexpat.dir/lib/xmltok_ns.c.o
+ccache /usr/bin/ranlib ../../Products/libepexpat.a

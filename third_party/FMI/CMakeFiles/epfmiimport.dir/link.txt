@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../Products/libepfmiimport.a CMakeFiles/epfmiimport.dir/main.c.o CMakeFiles/epfmiimport.dir/fmumini.c.o CMakeFiles/epfmiimport.dir/stack.c.o CMakeFiles/epfmiimport.dir/util.c.o CMakeFiles/epfmiimport.dir/xml_parser_cosim.c.o
+ccache /usr/bin/ranlib ../../Products/libepfmiimport.a

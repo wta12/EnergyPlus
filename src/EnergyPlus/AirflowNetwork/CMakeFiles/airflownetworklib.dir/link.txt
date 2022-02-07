@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../../Products/libairflownetworklib.a CMakeFiles/airflownetworklib.dir/src/Solver.cpp.o CMakeFiles/airflownetworklib.dir/src/Elements.cpp.o CMakeFiles/airflownetworklib.dir/src/Properties.cpp.o
+ccache /usr/bin/ranlib ../../../Products/libairflownetworklib.a

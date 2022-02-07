@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../libkiva.a CMakeFiles/libkiva.dir/Aggregator.cpp.o CMakeFiles/libkiva.dir/Algorithms.cpp.o CMakeFiles/libkiva.dir/Cell.cpp.o CMakeFiles/libkiva.dir/Domain.cpp.o CMakeFiles/libkiva.dir/Errors.cpp.o CMakeFiles/libkiva.dir/Foundation.cpp.o CMakeFiles/libkiva.dir/Functions.cpp.o CMakeFiles/libkiva.dir/Geometry.cpp.o CMakeFiles/libkiva.dir/Ground.cpp.o CMakeFiles/libkiva.dir/Instance.cpp.o CMakeFiles/libkiva.dir/Mesher.cpp.o
+ccache /usr/bin/ranlib ../../libkiva.a

@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../../Products/libpenumbra.a CMakeFiles/penumbra.dir/error.cpp.o CMakeFiles/penumbra.dir/gl/context.cpp.o CMakeFiles/penumbra.dir/gl/model.cpp.o CMakeFiles/penumbra.dir/gl/program.cpp.o CMakeFiles/penumbra.dir/gl/shader.cpp.o CMakeFiles/penumbra.dir/penumbra.cpp.o CMakeFiles/penumbra.dir/sun.cpp.o CMakeFiles/penumbra.dir/surface.cpp.o
+ccache /usr/bin/ranlib ../../../Products/libpenumbra.a

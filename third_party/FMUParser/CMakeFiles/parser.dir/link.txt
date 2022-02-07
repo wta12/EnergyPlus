@@ -1,0 +1,1 @@
+ccache /usr/lib/ccache/cc -O3 -DNDEBUG CMakeFiles/parser.dir/parser.c.o CMakeFiles/parser.dir/fmumini.c.o CMakeFiles/parser.dir/stack.c.o CMakeFiles/parser.dir/util.c.o CMakeFiles/parser.dir/xml_parser_cosim.c.o -o ../../Products/parser  -Wl,-rpath,::::::: ../../Products/libepexpat.a ../../Products/libminiziplib.a -pthread 

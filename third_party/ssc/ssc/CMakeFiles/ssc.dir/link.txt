@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../../Products/ssc.a CMakeFiles/ssc.dir/cmod_pvwattsv5.cpp.o CMakeFiles/ssc.dir/common.cpp.o CMakeFiles/ssc.dir/common_financial.cpp.o CMakeFiles/ssc.dir/core.cpp.o CMakeFiles/ssc.dir/sscapi.cpp.o CMakeFiles/ssc.dir/vartab.cpp.o
+ccache /usr/bin/ranlib ../../../Products/ssc.a

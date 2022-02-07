@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc ../../../Products/libbtwxt.a CMakeFiles/btwxt.dir/btwxt.cpp.o CMakeFiles/btwxt.dir/griddeddata.cpp.o CMakeFiles/btwxt.dir/gridpoint.cpp.o CMakeFiles/btwxt.dir/error.cpp.o
+ccache /usr/bin/ranlib ../../../Products/libbtwxt.a
