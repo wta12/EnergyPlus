@@ -4093,10 +4093,10 @@ Meter:Custom,
   storage_discharge_30_kWh,               !- Key Name 1
   Other Equipment Total Heating Energy;   !- Output Variable or Meter Name 1
 
-Meter:CustomDecrement,
-  MeterDecrementFailed,                   !- Name
-  Generic,                                !- Resource Type
-  CustomChargeMeter;                      !- Source Meter Name
+!Meter:CustomDecrement,
+!  MeterDecrementFailed,                   !- Name
+!  Generic,                                !- Resource Type
+!  CustomChargeMeter;                      !- Source Meter Name
 
 Meter:CustomDecrement,
   MeterDecrementWorks,                    !- Name

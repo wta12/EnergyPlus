@@ -35,7 +35,7 @@
                 "-w", "${workspaceFolder}/Dev_Works/Input/in.epw",
                 // "-r", 
                 "-c",
-                "${workspaceFolder}/Dev_Work/Input/in_meter.idf"
+                "${workspaceFolder}/Dev_Works/Input/in_meter.idf"
             // "${workspaceFolder}/Dev_Works/Input/WindowTestsSimple.idf"
             ],
             "stopAtEntry": false,

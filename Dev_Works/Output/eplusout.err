@@ -1,0 +1,106 @@
+Program Version,EnergyPlus, Version 22.1.0-08bd19528a, YMD=2022.02.07 07:52,
+   ** Warning ** Version: in IDF="9.6" not the same as expected="22.1"
+   ** Warning ** Version: in IDF="9.6" not the same as expected="22.1"
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="HEATTAPE_SCHEDULEDAY_TURNOFF", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 10", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 12", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 14", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 16", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 18", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 21", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 25", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 26", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 27", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 3", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 4", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 5", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 8", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SUMMERHEATOFF_SCHEDULEDAY_TURNOFF", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SUMMERHEATOFF_SCHEDULEDAY_TURNOFF 1", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="ELECSTORAGEHEATERMODESCHEDULE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SUMMERHEATOFF_SCHEDULERULESET", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** GetVertices: Roof/Ceiling is upside down! Tilt angle=[161.8], should be near 0, Surface="SURFACE 2", in Zone="WAINRIGHT_TZ".
+   **   ~~~   ** Automatic fix is attempted.
+   ** Warning ** CheckUsedConstructions: There are 12 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=MAIN SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN
+   ** Warning ** Output:Meter: invalid Key Name="NATURALGAS:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTCOOLING:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTHEATING:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly: invalid Key Name="METERDECREMENTFAILED" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly: invalid Key Name="NATURALGAS:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly requested for "Electricity:Facility" (TimeStep), already on "Output:Meter". Will report to both eplusout.eso and eplusout.mtr
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** Output:Table:Monthly requested with SimulationControl Run Simulation for Weather File Run Periods set to No so Output:Table:Monthly will not be generated
+   ** Warning ** CalcEquipmentFlowRates: "MAIN SERVICE WATER USE 0.08GPM AT 140F" - Target water temperature is greater than the hot water temperature (1.61 C)
+   **   ~~~   **  Environment=SIZING PERIOD DESIGN DAY 1, at Simulation time=07/21 07:00 - 07:10
+   **   ~~~   ** ...target water temperature       = 60.00 C
+   **   ~~~   ** ...hot water temperature       = 58.39 C
+   **   ~~~   ** ...Note: target water temperature should be less than or equal to the hot water temperature
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ************* Simulation Error Summary *************
+   ** Warning ** The following Report Variables were requested but not generated -- check.rdd file
+   **   ~~~   ** Either the IDF did not contain these elements, the variable name is misspelled,
+   **   ~~~   ** or the requested variable is an advanced output which requires Output : Diagnostics, DisplayAdvancedReportVariables;
+   ************* Key=*, VarName=CUSTOMCHARGEMETER, Frequency=Hourly
+   ************* Key=*, VarName=CUSTOMDISCHARGEMETER, Frequency=Hourly
+   ************* Key=MeterDecrementWorks, VarName=METERDECREMENTWORKS, Frequency=TimeStep
+   ************* Key=MeterDecrementFailed, VarName=METERDECREMENTFAILED, Frequency=TimeStep
+   ************* Key=*, VarName=ZONE AIR TERMINAL SENSIBLE HEATING RATE, Frequency=Hourly
+   ************* Key=*, VarName=BASEBOARD TOTAL HEATING RATE, Frequency=Hourly
+   ************* Key=*, VarName=UNITARY SYSTEM SENSIBLE HEATING RATE, Frequency=Hourly
+   ************* Key=*, VarName=UNITARY SYSTEM PREDICTED SENSIBLE LOAD TO SETPOINT HEAT TRANSFER RATE, Frequency=Hourly
+   ************* Key=*, VarName=GAS EQUIPMENT TOTAL HEATING ENERGY, Frequency=Monthly
+   ************* There are 16 unused objects in input.
+   ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
+   ************* There are 12 unused schedules in input.
+   ************* There are 16 unused week schedules in input.
+   ************* There are 36 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Surface Error Summary =====
+   ************* The following surface error messages occurred.
+   *************
+   ************* Base Surface does not surround subsurface errors occurring...
+   ************* Check that the GlobalGeometryRules object is expressing the proper starting corner and direction [CounterClockwise/Clockwise]
+   *************
+   ** Warning ** Base surface does not surround subsurface (CHKSBS), Overlap Status=No-Overlap
+   **   ~~~   **   The base surround errors occurred 1 times.
+   **   ~~~   ** Surface "FACE 22" misses SubSurface "FACE 25"
+   ** Warning ** Base surface does not surround subsurface (CHKSBS), Overlap Status=No-Overlap
+   **   ~~~   **   The base surround errors occurred 1 times.
+   **   ~~~   ** Surface "FACE 36" misses SubSurface "FACE 39"
+   *************
+   **   ~~~   **   The base surround errors occurred 2 times (total).
+   *************
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** "MAIN SERVICE WATER USE 0.08GPM AT 140F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 5407 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=1.867147  Min=0.329891
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 21 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 5442 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 31.46sec
