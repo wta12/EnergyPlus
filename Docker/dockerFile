@@ -1,20 +1,41 @@
 FROM ubuntu:18.04
 LABEL Description="EP_Build_Environment"
-SHELL ["/bin/bash", "-c"]
+
+## Base install
 RUN apt-get update && apt-get -y --no-install-recommends install \
     build-essential \
     clang \
-    cmake \
     gdb \
     wget \
-    git
-RUN apt-get update && apt-get -y --no-install-recommends install \
+    git \
+    libssl-dev \
+    openssl \
+    libtool \
+    autoconf \
+    automake \
     build-essential \
-    clang \
-    cmake \
-    gdb \
-    wget \
-    git
+    uuid-dev \
+    libxi-dev \
+    libopenal-dev \
+    libgl1-mesa-dev \
+    libglw1-mesa-dev \
+    freeglut3-dev \
+    curl \
+    unzip 
+## Python
 RUN apt-get update && apt-get -y --no-install-recommends install python3.8 
 RUN ln -s /usr/bin/pip3 /usr/bin/pip
 RUN ln -s /usr/bin/python3.8 /usr/bin/python
+## cmake
+RUN apt-get update &&  apt-get install -y --no-install-recommends  apt-transport-https ca-certificates gnupg software-properties-common 
+    
+ARG CMAKE_VERSION=3.21.0
+RUN wget https://github.com/Kitware/CMake/releases/download/v${CMAKE_VERSION}/cmake-${CMAKE_VERSION}-Linux-x86_64.sh \
+      -q -O /tmp/cmake-install.sh \
+      && chmod u+x /tmp/cmake-install.sh \
+      && mkdir /usr/bin/cmake \
+      && /tmp/cmake-install.sh --skip-license --prefix=/usr/bin/cmake \
+      && rm /tmp/cmake-install.sh
+ENV PATH="/usr/bin/cmake/bin:${PATH}"
+## set run
+CMD ["/bin/bash","-c"]
