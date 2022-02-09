@@ -1,0 +1,35 @@
+
+Conversion 9.4 => 9.5
+ Starting new Transition.audit
+ Will create new full IDFs
+ Will create new IDF lines with units where applicable
+ Will create new IDF lines leaving blank incoming fields as blank (no default fill)
+ Processing IDF -- F:\Projects\EPlus_develop\EP_build_debug\Input\in.idf
+   ** Severe  ** Out of range value Numeric Field#2 (Condenser Water Flow Rate), value=0.00000, range={>0}, in WaterHeater:HeatPump:PumpedCondenser=800gal Heat Pump Water Heater - 320kBtu/hr_Type_B
+   ** Severe  ** Out of range value Numeric Field#7 (Rated Evaporator Air Flow Rate), value=0.00000, range={>0}, in Coil:WaterHeating:AirToWaterHeatPump:Pumped=800gal Heat Pump Water Heater - 320kBtu/hr Coil
+   ** Severe  ** Out of range value Numeric Field#8 (Rated Condenser Water Flow Rate), value=0.00000, range={>0}, in Coil:WaterHeating:AirToWaterHeatPump:Pumped=800gal Heat Pump Water Heater - 320kBtu/hr Coil
+   ** Severe  ** Out of range value Numeric Field#2 (Condenser Water Flow Rate), value=0.00000, range={>0}, in WaterHeater:HeatPump:PumpedCondenser=800gal Heat Pump Water Heater - 320kBtu/hr_Type_B 1
+   ** Severe  ** Out of range value Numeric Field#7 (Rated Evaporator Air Flow Rate), value=0.00000, range={>0}, in Coil:WaterHeating:AirToWaterHeatPump:Pumped=800gal Heat Pump Water Heater - 320kBtu/hr Coil 1
+   ** Severe  ** Out of range value Numeric Field#8 (Rated Condenser Water Flow Rate), value=0.00000, range={>0}, in Coil:WaterHeating:AirToWaterHeatPump:Pumped=800gal Heat Pump Water Heater - 320kBtu/hr Coil 1
+   ** Warning ** Object=Sizing:Zone, name=Building Story 1 ThermalZone, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 1 ThermalZone 1, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 1 ThermalZone 2, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 1 ThermalZone 3, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 1 ThermalZone 4, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 2 ThermalZone, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 2 ThermalZone 1, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 2 ThermalZone 2, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 2 ThermalZone 3, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Warning ** Object=Sizing:Zone, name=Building Story 2 ThermalZone 4, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   ** Severe  ** Out of "range" values found in input
+   ** Severe  ** Out of "range" values and/or blank required fields found in input

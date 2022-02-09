@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.buildDirectory": "${workspaceFolder}/build/${buildType}",
+    "cmake.parallelJobs": 6,
+    "cmake.configureOnOpen": false,
+   
+
+}

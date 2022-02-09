@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.loggingLevel": "debug",
+		"cmake.configureOnOpen": false
+   
+
+	}
+}
