@@ -26,9 +26,12 @@
 		"ms-vscode.cmake-tools",
 		"twxs.cmake"
 	],
-	"containerEnv": {"HOST_PATH":"${localWorkspaceFolder}"},
-	"workspaceMount": "source=${localWorkspaceFolder},target=/home/ngkhanh/ep_dev_docker,type=bind", // bind has worse pef but convenient - source folder already WSL VM based
-	"workspaceFolder": "/home/ngkhanh/ep_dev_docker",
+	"containerEnv": {
+		"HOST_PATH":"${localWorkspaceFolder}",
+		"CCACHE_DIR":"${containerWorkspaceFolder}/build/ccache_dir"
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/home/ngkhanh/EnergyPlus_Docker,type=bind", // bind has worse pef but convenient - source folder already WSL VM based
+	"workspaceFolder": "/home/ngkhanh/EnergyPlus_Docker",
 	// "onCreateCommand": "sudo chown -R ngkhanh ${containerWorkspaceFolder}", 
 	"onCreateCommand": "${containerWorkspaceFolder}/Docker/postCreateCmd.sh",
 	// "postAttachCommand": [

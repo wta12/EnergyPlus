@@ -16,7 +16,8 @@
             "externalConsole": false,
             "MIMode": "gdb",
             // "miDebuggerPath": "/usr/bin/gdb",
-            // "targetArchitecture": "x86_64",
+            
+            "targetArchitecture": "x86_64",
             "logging": {
                 // "trace" : true,
                 // "traceResponse": true
