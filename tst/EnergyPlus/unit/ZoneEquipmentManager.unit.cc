@@ -85,6 +85,14 @@ using namespace EnergyPlus::HeatBalanceAirManager;
 using namespace EnergyPlus::HeatBalanceManager;
 using namespace EnergyPlus::HVACManager;
 
+// class SuccessListener : public testing::EmptyTestEventListener {
+//   void OnTestPartResult(const testing::TestPartResult& result) override {
+//     if (result.type() == testing::TestPartResult::kSuccess) {
+//       printf("%s\n", result.message());
+//     }
+//   }
+// };
+
 TEST_F(EnergyPlusFixture, ZoneEquipmentManager_CalcZoneMassBalanceTest)
 {
 
@@ -135,6 +143,8 @@ TEST_F(EnergyPlusFixture, ZoneEquipmentManager_CalcZoneMassBalanceTest)
     GetZoneEquipmentData(*state);
     state->dataZoneEquip->ZoneEquipInputsFilled = true;
     GetSimpleAirModelInputs(*state, ErrorsFound);
+    //  ShowMessage(*state, "Begin Test: SizingAnalysisObjectsTest, testZoneUpdateInLoggerFramework");
+    std::cerr << "[          ] random seed = " << std::endl;
     int ZoneNum = 1;
     int NodeNum;
     for (NodeNum = 1; NodeNum <= state->dataZoneEquip->ZoneEquipConfig(ZoneNum).NumInletNodes; ++NodeNum) {
@@ -167,7 +177,8 @@ TEST_F(EnergyPlusFixture, ZoneEquipmentManager_CalcZoneMassBalanceTest)
     state->dataLoopNodes->Node(state->dataZoneEquip->ZoneEquipConfig(ZoneNum).ExhaustNode(2)).MassFlowRate = 0.5;
     CalcZoneMassBalance(*state, false);
     EXPECT_TRUE(has_err_output());
-
+    SUCCEED() << idf_objects;
+    // print(k);
     // Deallocate everything - should all be taken care of in clear_states
 }
 

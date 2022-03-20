@@ -9,14 +9,21 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${command:cmake.launchTargetPath}",
-            "args": ["--gtest_filter=SizingAnalysisObjectsTest*"],
+            "args": ["--gtest_filter=EnergyPlusFixture.ZoneEquipmentManager_CalcZoneMassBalanceTest"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}/Dev_Works/Output",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
+            // "MIMode": "lldb",
             // "miDebuggerPath": "/usr/bin/gdb",
-            
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
             "targetArchitecture": "x86_64",
             "logging": {
                 // "trace" : true,

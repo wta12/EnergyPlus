@@ -49,6 +49,13 @@
 
 // Google Test Headers
 #include <gtest/gtest.h>
+class SuccessListener : public testing::EmptyTestEventListener {
+  void OnTestPartResult(const testing::TestPartResult& result) override {
+    if (result.type() == testing::TestPartResult::kSuccess) {
+      printf("%s\n", result.message());
+    }
+  }
+};
 
 // Google Test main
 int main(int argc, char **argv)
@@ -61,5 +68,6 @@ int main(int argc, char **argv)
     ::testing::GTEST_FLAG(shuffle) = true;
 #endif
     ::testing::InitGoogleTest(&argc, argv);
+    testing::UnitTest::GetInstance()->listeners().Append(new SuccessListener);
     return RUN_ALL_TESTS();
 }

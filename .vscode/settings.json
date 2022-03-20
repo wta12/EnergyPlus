@@ -4,6 +4,7 @@
     "cmake.parallelJobs": 4,
     "cmake.configureOnOpen": false,
     "cmake.generator": "Unix Makefiles"
+
    
 
 }
