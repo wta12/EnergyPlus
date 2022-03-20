@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${command:cmake.launchTargetPath}",
-            "args": ["--gtest_filter=EnergyPlusFixture.ZoneEquipmentManager_CalcZoneMassBalanceTest"],
+            "args": ["--gtest_filter=EnergyPlusFixture.ZoneEquipmentManager_TestCustom"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}/Dev_Works/Output",
             "environment": [],

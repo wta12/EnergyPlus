@@ -2306,7 +2306,9 @@ TEST_F(InputProcessorFixture, getObjectItem_parsing_numbers_as_alpha_fields2)
         "5.548000,0,0.5000,  !- X,Y,Z ==> Vertex 3 {m}",
         "5.548000,0,2.5000;  !- X,Y,Z ==> Vertex 4 {m}",
     });
-    ASSERT_TRUE(process_idf(idf_objects));
+    ASSERT_TRUE(
+        
+        (idf_objects));
 
     std::string const CurrentModuleObject = "FenestrationSurface:Detailed";
 

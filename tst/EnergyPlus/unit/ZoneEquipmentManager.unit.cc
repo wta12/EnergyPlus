@@ -46,6 +46,7 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 // EnergyPlus::ZoneEquipmentManager Unit Tests
+#include <fstream>
 
 // Google Test Headers
 #include <gtest/gtest.h>
@@ -76,7 +77,7 @@
 #include <EnergyPlus/ZoneEquipmentManager.hh>
 
 #include "Fixtures/EnergyPlusFixture.hh"
-
+#include <EnergyPlus/ConfiguredFunctions.hh>
 using namespace EnergyPlus;
 using namespace EnergyPlus::ZoneEquipmentManager;
 using namespace EnergyPlus::DataLoopNode;
@@ -85,17 +86,27 @@ using namespace EnergyPlus::HeatBalanceAirManager;
 using namespace EnergyPlus::HeatBalanceManager;
 using namespace EnergyPlus::HVACManager;
 
-// class SuccessListener : public testing::EmptyTestEventListener {
-//   void OnTestPartResult(const testing::TestPartResult& result) override {
-//     if (result.type() == testing::TestPartResult::kSuccess) {
-//       printf("%s\n", result.message());
-//     }
-//   }
-// };
 
+std::vector<std::string> getAllLinesInFile(std::string filePath)
+{
+    std::ifstream infile(filePath);
+    std::vector<std::string> lines;
+    std::string line;
+    while (std::getline(infile, line)) {
+        lines.push_back(line);
+    }
+    return lines;
+}
+TEST_F(EnergyPlusFixture, ZoneEquipmentManager_TestCustom)
+{
+     std::vector<std::string> snippet =
+        getAllLinesInFile(configured_source_directory() / "tst/EnergyPlus/unit/Resources/UnitaryHybridUnitTest_DOSA.idf");
+    std::string const idf_objects_test = delimited_string(snippet);  
+     SUCCEED() << idf_objects_test;
+}
 TEST_F(EnergyPlusFixture, ZoneEquipmentManager_CalcZoneMassBalanceTest)
 {
-
+   
     std::string const idf_objects = delimited_string({
         "Zone,",
         "  Space;                   !- Name",
@@ -134,7 +145,7 @@ TEST_F(EnergyPlusFixture, ZoneEquipmentManager_CalcZoneMassBalanceTest)
         "  Exhaust Fan Inlet Node; !- Node 1 Name",
 
     });
-
+    
     ASSERT_TRUE(process_idf(idf_objects));
     EXPECT_FALSE(has_err_output());
     bool ErrorsFound = false;
@@ -177,7 +188,7 @@ TEST_F(EnergyPlusFixture, ZoneEquipmentManager_CalcZoneMassBalanceTest)
     state->dataLoopNodes->Node(state->dataZoneEquip->ZoneEquipConfig(ZoneNum).ExhaustNode(2)).MassFlowRate = 0.5;
     CalcZoneMassBalance(*state, false);
     EXPECT_TRUE(has_err_output());
-    SUCCEED() << idf_objects;
+   
     // print(k);
     // Deallocate everything - should all be taken care of in clear_states
 }
